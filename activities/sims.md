@@ -39,7 +39,7 @@ These are activities that happen during the course of `Simulations`.
 ### End of Week Activities
 
 * Sync with `TTL` to get team pulse
-* Fill the `Developer Pulse` survey 
+* Fill the `Developer Pulse` survey
 * Create slots for `Checkpoint Project` defense
 
 ### End of Sims Project
