@@ -34,6 +34,8 @@ These are activities that happen during the course of `Simulations`.
 * Prepare for [improv exercises](https://docs.google.com/document/d/1Cle31FbTySn9WUr5KvP2F0-bP195UFqX0rWPbXr4boo/edit?pli=1#heading=h.k7uqgcgmfczk)
 * Prepare for [skill session](https://docs.google.com/document/d/1R36YL_KDyOQV7S4GV0_FXyeV3_-O6n8XFyzzvMfTl48/edit?pli=1#)
 * Checkpoint defense/scorecard preparation
+    * [Andela Code Review Guidelines](https://github.com/andela/code-review-guidelines)
+    * [My personal checklist](https://github.com/andela-stuff/cp-defence)
 * 1-on-1 session
 
 ### End of Week Activities
