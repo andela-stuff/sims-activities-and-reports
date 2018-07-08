@@ -17,7 +17,7 @@ These are activities that happen during the course of `Simulations`.
     * Guidelines and conventions
         * https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices
     * Git workflow
-        * *add link to Andela's git workflow*
+        * https://github.com/andela/bestpractices/wiki/Git-Workflow
         * https://github.com/k88hudson/git-flight-rules
 * Create necessary calendar events:
     * TTL Interaction
