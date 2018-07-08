@@ -2,6 +2,8 @@
 
 These are activities that happen during the course of `Simulations`.
 
+Check out the [Sims Facilitation Onboarding/Manual](https://docs.google.com/document/d/1WaH-hDEGHc9o4HA2IFDs9CAF9GVHBGi2f3bUjokTIls/edit?ts=5a55fce3#heading=h.jsl03io66a9q).
+
 ### Start of Sims
 
 * Send out `Welcome to Sims` email *reference email template*
