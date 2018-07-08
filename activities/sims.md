@@ -15,7 +15,7 @@ These are activities that happen during the course of `Simulations`.
 * Install necessary tools on fellows' machines
 * Decide on:
     * Guidelines and conventions
-        * *add link to Andela's guidelines and conventions*
+        * https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices
     * Git workflow
         * *add link to Andela's git workflow*
         * https://github.com/k88hudson/git-flight-rules
