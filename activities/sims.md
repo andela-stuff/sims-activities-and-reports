@@ -9,6 +9,7 @@ Check out the [TDD Operations Checklist - Simulations](https://docs.google.com/d
 ### Start of Sims
 
 * Send out `Welcome to Sims` email *reference email template*
+    * Send out [Welcome to Simulations 3.0](https://docs.google.com/presentation/d/1zLCY7cvMqnMNE8oJvdt8ST1lxDdbkCR5dy-p4xpx-og/edit?ts=5b44c5a4#slide=id.p)
 * Hold `Sims Induction` *reference induction time-table*
 * Create necessary calendar events:
     * Skill Session
