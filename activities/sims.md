@@ -35,8 +35,8 @@ Check out the [TDD Operations Checklist - Simulations](https://docs.google.com/d
 
 ### Daily Activities
 
-* Prepare for [the day's activities](https://docs.google.com/spreadsheets/d/10Wcdd1sQXK6pmRUFC28y5dJHhKYp87aDeK4XNgTYXMw/edit?ts=59df870e&pli=1#gid=1736526133)
 * Prepare for [improv exercises](https://docs.google.com/document/d/1Cle31FbTySn9WUr5KvP2F0-bP195UFqX0rWPbXr4boo/edit?pli=1#heading=h.k7uqgcgmfczk)
+* Prepare for [Simulations Calendar 3.0 + LMS Outputs](https://docs.google.com/spreadsheets/d/1MKb0-Nq2H6G0IGAK5haP1Q6Xc6eD7aCzJGIhnUh11NQ/edit#gid=655938992)
 * Prepare for [skill session](https://docs.google.com/document/d/1oPr6Hot9aYUFE7Aq-lVIp1HEHC2h2VcNzwuabY2kzzU/edit#heading=h.jt6sey91mrjw)
 * Checkpoint defense/scorecard preparation
     * [Andela Code Review Guidelines](https://github.com/andela/code-review-guidelines)
