@@ -37,7 +37,7 @@ Check out the [TDD Operations Checklist - Simulations](https://docs.google.com/d
 
 * Prepare for [the day's activities](https://docs.google.com/spreadsheets/d/10Wcdd1sQXK6pmRUFC28y5dJHhKYp87aDeK4XNgTYXMw/edit?ts=59df870e&pli=1#gid=1736526133)
 * Prepare for [improv exercises](https://docs.google.com/document/d/1Cle31FbTySn9WUr5KvP2F0-bP195UFqX0rWPbXr4boo/edit?pli=1#heading=h.k7uqgcgmfczk)
-* Prepare for [skill session](https://docs.google.com/document/d/1R36YL_KDyOQV7S4GV0_FXyeV3_-O6n8XFyzzvMfTl48/edit?pli=1#)
+* Prepare for [skill session](https://docs.google.com/document/d/1oPr6Hot9aYUFE7Aq-lVIp1HEHC2h2VcNzwuabY2kzzU/edit#heading=h.jt6sey91mrjw)
 * Checkpoint defense/scorecard preparation
     * [Andela Code Review Guidelines](https://github.com/andela/code-review-guidelines)
     * [My personal checklist](https://github.com/andela-stuff/cp-defence)
