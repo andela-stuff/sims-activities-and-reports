@@ -32,6 +32,7 @@ Check out the [TDD Operations Checklist - Simulations](https://docs.google.com/d
 
 * View `LMS` outputs for the week
 * Review `LMS` outputs from previous week
+    * For technical (and some non-technical) outputs, pick out concepts and terms from the fellows' submission, and have a discussion on such concepts. This can contribute to the _Dev Pulse_ quality ratings for such fellows, for the week.
 
 ### Daily Activities
 
