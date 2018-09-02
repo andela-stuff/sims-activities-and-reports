@@ -39,7 +39,8 @@ Check out the [TDD Operations Checklist - Simulations](https://docs.google.com/d
 * Prepare for [improv exercises](https://docs.google.com/document/d/1Cle31FbTySn9WUr5KvP2F0-bP195UFqX0rWPbXr4boo/edit?pli=1#heading=h.k7uqgcgmfczk)
 * Prepare for [Simulations Calendar 3.0 + LMS Outputs](https://docs.google.com/spreadsheets/d/1MKb0-Nq2H6G0IGAK5haP1Q6Xc6eD7aCzJGIhnUh11NQ/edit#gid=655938992)
 * Prepare for [skill session](https://docs.google.com/document/d/1oPr6Hot9aYUFE7Aq-lVIp1HEHC2h2VcNzwuabY2kzzU/edit#heading=h.jt6sey91mrjw)
-* TTL Interaction
+* Technical Team Lead (TTL) Interaction
+    * Pick out concepts and terms from the fellows' PRs (and other contributions), and have a discussion on such concepts. This can contribute to the _Dev Pulse_ quality ratings for such fellows, for the week.
 * Checkpoint defense/scorecard preparation
     * [Andela Code Review Guidelines](https://github.com/andela/code-review-guidelines)
     * [My personal checklist](https://github.com/andela-stuff/cp-defence)
