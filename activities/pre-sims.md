@@ -36,3 +36,10 @@ These are activities that happen before the commencement of `Simulations`.
         * JavaScript Nuances
             * _When complete, share your **wtf** code snippets_
             * https://github.com/getify/You-Dont-Know-JS
+    * Learning
+        * OKBB
+        * The importance of analogies `//explain stuff to a 6 year old`
+    * Thinking
+        * First Principles Thinking
+        * Beware of Ideologues
+        * There's often no one right answer
