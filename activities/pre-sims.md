@@ -18,4 +18,21 @@ These are activities that happen before the commencement of `Simulations`.
             * Ratings don't depend on feedback but my confidence in a fellow
             * Confidence is dependent on `context + feedback`
     * Go through all LMS outputs to set expectations.
-    * Some things you should know
+    * Some things you should know:
+        * CSS
+        * Database
+            * How to write raw SQL queries
+            * How to navigate databases from just the CLI
+        * GIT
+            * How to rebase
+            * How to cherry-pick
+            * How to squash/drop/pick commits
+        * Object Oriented Programming
+        * Modular Programming - How to keep code DRY `// This is important when writing your controllers because you don't want to keep repeating the same logic across different controllers`
+        * Writing Tests
+            * Unit Tests `// How do you structure your code to allow for unit tests?`
+            * Integration Tests
+            * End-to-End Tests
+        * JavaScript Nuances
+            * _When complete, share your **wtf** code snippets_
+            * https://github.com/getify/You-Dont-Know-JS
