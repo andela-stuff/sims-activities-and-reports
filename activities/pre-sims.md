@@ -41,5 +41,6 @@ These are activities that happen before the commencement of `Simulations`.
         * The importance of analogies `//explain stuff to a 6 year old`
     * Thinking
         * First Principles Thinking
+        * Convergent and Divergent Thinking
         * Beware of Ideologues
         * There's often no one right answer
