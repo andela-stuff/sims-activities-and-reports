@@ -36,6 +36,10 @@ These are activities that happen before the commencement of `Simulations`.
         * JavaScript Nuances
             * _When complete, share your **wtf** code snippets_
             * https://github.com/getify/You-Dont-Know-JS
+    * Some things you could know:
+        * https://github.com/andela/learningmap
+        * https://github.com/andela/engineering-playbook
+            * [Architecture Documentation](https://docs.google.com/document/d/1HJnk8cqvblyW6NOGN6xkSsWVvtMmYBrumfXN145ZTL4/edit)
     * Learning
         * OKBB
         * The importance of analogies `//explain stuff to a 6 year old`
