@@ -21,6 +21,8 @@ Check out the [TDD Operations Checklist - Simulations](https://docs.google.com/d
 * Decide on:
     * Guidelines and conventions
         * https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices
+        * https://github.com/andela/engineering-playbook/tree/master/5.%20Developing/Conventions
+        * https://github.com/andela/workdey/wiki/Pivotal-Tracker-Story-Convention
     * Git workflow
         * https://github.com/andela/bestpractices/wiki/Git-Workflow
         * https://github.com/k88hudson/git-flight-rules
