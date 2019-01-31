@@ -29,6 +29,9 @@ Check out the [TDD Operations Checklist - Simulations](https://docs.google.com/d
 * Create necessary calendar events:
     * TTL Interaction
     * Debrief
+* Share necessary docs:
+    * Share _TTL Pulse_ docs with TTLs
+    * Share _Weekly Reflections_ docs with fellows
 
 ### Start of Week Activities
 
