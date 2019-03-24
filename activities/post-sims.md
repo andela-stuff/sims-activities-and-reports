@@ -22,5 +22,6 @@ These are activities that happen after the completion of `Simulations`.
     * Post-Deployment
         * Monitoring:
             * Runscope: https://www.runscope.com
+            * Bugsnag: https://app.bugsnag.com
         * Reporting/Dashboards:
             * Status Page IO: https://www.statuspage.io/ 
