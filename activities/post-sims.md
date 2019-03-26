@@ -20,8 +20,7 @@ These are activities that happen after the completion of `Simulations`.
         * Heroku:
             * Heroku pipelines: https://devcenter.heroku.com/articles/pipelines
     * Post-Deployment
-        * Monitoring:
+        * Monitoring + Reporting + Alerting:
             * Runscope: https://www.runscope.com
             * Bugsnag: https://app.bugsnag.com
-        * Reporting/Dashboards:
             * Status Page IO: https://www.statuspage.io/ 
