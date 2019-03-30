@@ -26,4 +26,5 @@ These are activities that happen after the completion of `Simulations`.
             * Status Page IO: https://www.statuspage.io/ 
             * Datadog:
                 * https://www.youtube.com/watch?v=uI3YN_cnahk
+                * https://docs.datadoghq.com/getting_started/
             * PagerDuty
