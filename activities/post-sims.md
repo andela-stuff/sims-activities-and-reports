@@ -24,7 +24,6 @@ These are activities that happen after the completion of `Simulations`.
             * Runscope: https://www.runscope.com
             * Bugsnag: https://app.bugsnag.com
             * Status Page IO: https://www.statuspage.io/ 
-            * Datadog:
-                * https://www.youtube.com/watch?v=uI3YN_cnahk
-                * https://docs.datadoghq.com/getting_started/
-            * PagerDuty
+            * Datadog: https://www.datadoghq.com/
+        * Incident Management:
+            * PagerDuty: https://www.pagerduty.com/
