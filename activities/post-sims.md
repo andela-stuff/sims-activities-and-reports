@@ -1,4 +1,4 @@
-# Pre-Sims Activities
+# Post-Sims Activities
 
 These are activities that happen after the completion of `Simulations`.
 
