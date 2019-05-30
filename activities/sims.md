@@ -53,6 +53,7 @@ Check out the [TDD Operations Checklist - Simulations](https://docs.google.com/d
 
 ### End of Week Activities
 
+* Share GitPrime and other analytics (during the last `TTL Interaction`)
 * Sync with `TTL` to get team pulse
 * Fill the `Developer Pulse` survey
 * Create slots for `Checkpoint Project` defense
